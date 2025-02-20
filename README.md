@@ -582,13 +582,9 @@ console.log(data);
 ## <span>🖱️ For Front End</span>
 
 > [!TIP]
-> Kindly use this repo to make Front End [anime](https://animixplay.fun/)
-
-- [Eltik / Anify](https://github.com/Eltik/Anify)
+> [anime](https://animixplay.fun/)
+> Kindly use this repo to make FrontEnd
 
 #############################################################################
 
-## <span>🤝 Thanks ❤️</span>
-
-- [consumet.ts](https://github.com/consumet/consumet.ts)
-- [ghoshRitesh12](https://github.com/ghoshRitesh12)
+## <span>🤝 Thanks animixplay ❤️</span>
