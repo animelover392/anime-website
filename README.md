@@ -582,7 +582,7 @@ console.log(data);
 ## <span>🖱️ For Front End</span>
 
 > [!TIP]
-> Kindly use this repo to make Front End
+> Kindly use this repo to make Front End [anime](https://animixplay.fun/)
 
 - [Eltik / Anify](https://github.com/Eltik/Anify)
 
