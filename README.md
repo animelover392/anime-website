@@ -1,4 +1,4 @@
-# ⚡Anime-API⚡
+# ⚡Anime-API Animixplay anime website⚡
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,bun,hono,docker" />
@@ -11,7 +11,7 @@
 ## ⚡ Web Scraping Status
 
 # update 
-for fetch episodes list, servers and epsiodes please use this repo [this](https://github.com/yahyaMomin/getSources) becouse at current state BUN does not support brotlidecomprasion which is esential for live streaming 
+for fetch episodes list, servers and epsiodes please use this repo [animixplay](https://animixplay.fun/) becouse at current state BUN does not support brotlidecomprasion which is esential for live streaming 
 
 ## Index
 
